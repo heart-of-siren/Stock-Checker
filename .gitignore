@@ -1,0 +1,25 @@
+# CMake / Visual Studio
+/build/
+out/
+CMakeUserPresets.json
+.vs/
+
+# Compiled output
+/package/SKSE/Plugins/Release/
+*.dll
+*.pdb
+*.lib
+*.exp
+
+# External dependencies
+/extern/CommonLibSSE-NG/
+/extern/SKSEMenuFramework.h
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
